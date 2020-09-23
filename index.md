@@ -61,13 +61,14 @@ Here, I used one picture of mine and my friend to compress. At first, I lowered 
 8th at Team Contest of NeurIPS AutoDL challenges (Auto Speech Challenge) co-hosted by Google, Cha-Learn, and 4paradigm.
 
 ### Online Profiles
-```
-[Md. Mahmudul Haque](https://www.linkedin.com/in/md-mahmudul-haque-8a5484b2)
-[alcatraz47](https://github.com/alcatraz47?tab=repositories)
-```
+
+1. LinkedIn: [Md. Mahmudul Haque](https://www.linkedin.com/in/md-mahmudul-haque-8a5484b2)
+2. Github: [alcatraz47](https://github.com/alcatraz47?tab=repositories)
+3. Facebook: [Mahmudul Haque Arfan](https://www.facebook.com/mahmud.arfan.alcatraz47)
+
 ### Some show off... sorry certificates
 
-- Machine Learning Via Coursera Online MOOC from Stanford University [link](https://www.coursera.org/account/accomplishments/certificate/56GE9TSYS4K2)
-- Neural Networks and Deep Learning [link](https://www.coursera.org/account/accomplishments/certificate/BBQR5LBFE78B)
-- Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization [link](https://www.coursera.org/account/accomplishments/certificate/DUTH4LKFWV87)
-- Mathematics for Machine Learning: Linear Algebra Via Coursera Online MOOC from Imperial College London [link](https://www.coursera.org/account/accomplishments/certificate/DUTH4LKFWV87)
+- Machine Learning Via Coursera Online MOOC from Stanford University: [verification-link](https://www.coursera.org/account/accomplishments/certificate/56GE9TSYS4K2)
+- Neural Networks and Deep Learning: [verification-link](https://www.coursera.org/account/accomplishments/certificate/BBQR5LBFE78B)
+- Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization: [verification-link](https://www.coursera.org/account/accomplishments/certificate/DUTH4LKFWV87)
+- Mathematics for Machine Learning: Linear Algebra Via Coursera Online MOOC from Imperial College London: [verification-link](https://www.coursera.org/account/accomplishments/certificate/DUTH4LKFWV87)
