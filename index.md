@@ -35,7 +35,7 @@ Technical Report Link: [ResearchGate](https://www.researchgate.net/publication/3
 ### Internship/Research
 
 **This is the first time I have ever worked with voice based deep learning. A real experience to remember! This time I really played with emotions... of people of course! :P** 
-- Emotion Recognition from Voice Using Deep Learning:
+- **Emotion Recognition from Voice Using Deep Learning:** 
 It was the first project on voice processing along with Deep Neural Networks for sequential data. The dataset contained 7 classifications: Sad, Angry, Happy, Pleasant Surprise, Fear, Neutral, and Disgust. The dataset was collected from the University of Toronto's database system a.k.a T-space. The dataset was not that noisy and had two actors(one young and another one was old women) for recording. The dataset was gender-biased as both of the speakers were women. Speech processing was used on that dataset using MFCC feature extraction and later on, Mel Spectrogram was used on them to deduct the features. 3 custom CNN, 1 LSTM, and 1 Densenet were used as an algorithm to predict the categories on unseen data. Again the proportion in training, validation and testing was 70-20-10, but this state was interchanged by time to make sure the algorithm was working correctly. Later on, our own voices were given to determine how the algorithms work in the different data distribution. On similar data distribution, the algorithm given 99.36% accuracy beating the current state of the art on this dataset which was 85%. On different distributions, the algorithm is given 42% due to excessive noise and particularly no extra pre-processing used on them.
 
 ### Personal Projects
