@@ -74,3 +74,10 @@ Here, I used one picture of mine and my friend to compress. At first, I lowered 
 - Neural Networks and Deep Learning: [verification-link](https://www.coursera.org/account/accomplishments/certificate/BBQR5LBFE78B)
 - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization: [verification-link](https://www.coursera.org/account/accomplishments/certificate/DUTH4LKFWV87)
 - Mathematics for Machine Learning: Linear Algebra Via Coursera Online MOOC from Imperial College London: [verification-link](https://www.coursera.org/account/accomplishments/certificate/DUTH4LKFWV87)
+
+### Reference
+DR. MOHAMMAD RASHEDUR RAHMAN
+Professor & Graduate Coordinator
+PhD in Computer Science, University of Calgary, Canada
+MS in Computer Science, University of Manitoba, Canada
+BS in Computer Science and Engineering, BUET, Bangladesh.
