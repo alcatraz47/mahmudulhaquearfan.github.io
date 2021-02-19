@@ -7,7 +7,7 @@
 Listening songs, Reading fiction books, watching motor sports specially Formula 1(Kimi Raikkonen is my favourite driver.... Bwoah! ;) )
 
 ### Job Experience
--**Current**:
+**Current**:
     - Working as a Machine Learning Researcher at NybSys Pvt. Ltd. since January 2019.
     - Working as a Data Engineer(Remote and Part-time) at Mumsy AB under Transdev sicne Januray 2020.
 
