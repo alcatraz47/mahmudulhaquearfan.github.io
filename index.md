@@ -9,6 +9,7 @@ Listening songs, Reading fiction books, watching motor sports specially Formula 
 ### Job Experience
 
 Working as a Machine Learning Researcher at NybSys Pvt. Ltd. since January 2019.
+Working as a Data Engineer at Mumsy AB under Transdev.
 
 ### Education 
 
