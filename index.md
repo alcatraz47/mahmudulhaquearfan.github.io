@@ -21,28 +21,28 @@ CGPA: shush!!!.... I am an NSUer!
 
 ### Work Experiences at jobs
 
-**NybFace Web and Mobile App: Access controlling system based on face recognition. **
+- **NybFace Web and Mobile App: Access controlling system based on face recognition. **
 
 - Key contributions: Face alignment, Brightness enhancement, Recognition algorithm adjustment, Integration with Front-end, Positive Q/A testing, Cloud deployment (AWS and Azure), and Edge device (on Jetson TX2) compatibility testing.
 - Tech stacks: OpenCV, Pytorch, Cython, Linux(Ubuntu Distro),
 Anaconda.
 
-**Text Summarization on news data of financial SMEs in Europe. **
+- **Text Summarization on news data of financial SMEs in Europe. **
 
 - Key contributions: Text summarization on English news data and provide an API of it.
 - Tech stacks: NLTK, Transformers, Attention Mechanism, Pytorch, FastAPI, and AWS SageMaker.
 
-**Street Visitor: Developing pipelines and predictive analysis of workers GPS locating devices. **
+- **Street Visitor: Developing pipelines and predictive analysis of workers GPS locating devices. **
 
 - Key contributions: ETL on data for the Data Science team.
 - Tech stacks: Pyspark, SQL, Scikit-learn, Shapely, Pandas.
 
-**ETL on Public Transport Data: ETL on the public transport data for report generation purpose of each day. **
+- **ETL on Public Transport Data: ETL on the public transport data for report generation purpose of each day. **
 
 - Key contribution: Fetch data from MS SQL Server to AWS S3 and AWS3 to AWS Redshift. Later on, automate the system by events in S3 using AWS Lambda.
 - Tech stacks: Python, Pandas, Psycopg2, MS SQL Server, AWS S3, AWS Lambda, AWS Redshift, AWS IAM, AWS Cloud Watch.
 
-**Survello Web: Computer vision-based surveillance system. **
+- **Survello Web: Computer vision-based surveillance system. **
 - Key contributions: Object detection and tracking adjustment, integration with Front-end.
 - Tech stacks: OpenCV, Python, SQLite3, Keras, Pytorch.
 
