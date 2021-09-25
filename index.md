@@ -8,9 +8,13 @@ Listening songs, Reading fiction books, watching motor sports specially Formula 
 
 ### Job Experience
 **Current**:
-- Working as a Machine Learning Researcher at NybSys Pvt. Ltd. since January 2019.
-- Working as a Data Engineer(Remote and Part-time) at Mumsy AB under Transdev since Januray 2020.
+- Working as a Data Scientist and Engineer (Full-time) at Eucaps Ltd. since September 2021 - Present.
+- Working as a Machine Learning Engineer (Part-time) at NybSys Pvt. Ltd. since September 2021 - Present.
 
+**Past**:
+- Worked as a Machine Learning Engineer (Full-time) at NybSys Pvt. Ltd. since January 2019 - August 2021.
+- Worked as a Data Scientist and Engineer (Part-time) at Eucaps Ltd. since June 2021 - August 2021.
+- Worked as a Data Engineer(Remote and Part-time) at Mumsy AB under Transdev since Januray 2021 - May 2021.
 ### Education 
 
 - BSc. in Computer Science and Engineering from North South University, Dhaka, Bangladesh.
@@ -21,16 +25,20 @@ CGPA: shush!!!.... I am an NSUer!
 
 ### Work Experiences at jobs
 
-**NybFace Web and Mobile App: Access controlling system based on face recognition.**
-
-- Key contributions: Face alignment, Brightness enhancement, Recognition algorithm adjustment, Integration with Front-end, Positive Q/A testing, Cloud deployment (AWS and Azure), and Edge device (on Jetson TX2) compatibility testing.
-- Tech stacks: OpenCV, Pytorch, Cython, Linux(Ubuntu Distro),
-Anaconda.
-
 **Text Summarization on news data of financial SMEs in Europe.**
 
 - Key contributions: Text summarization on English news data and provide an API of it.
 - Tech stacks: NLTK, Transformers, Attention Mechanism, Pytorch, FastAPI, and AWS SageMaker.
+
+**Social media bot-based marketing for news distribution:**
+- Key contributions: Social media bots development LinkedIn, Email bots, Twitter.
+- Tech stacks: Python, All the bots API, FastAPI, AWS SES, AWS Lambda
+
+**FaceNext Web and Mobile App: Access controlling system based on face recognition.**
+
+- Key contributions: Face alignment, Brightness enhancement, Recognition algorithm adjustment, Integration with Front-end, Positive Q/A testing, Cloud deployment (AWS and Azure), and Edge device (on Jetson TX2) compatibility testing.
+- Tech stacks: OpenCV, Pytorch, Cython, Linux(Ubuntu Distro),
+Anaconda.
 
 **Street Visitor: Developing pipelines and predictive analysis of workers GPS locating devices.**
 
