@@ -15,8 +15,8 @@ Listening songs, Reading fiction books, watching motor sports specially Formula 
 - Worked as a Machine Learning Engineer (Full-time) at NybSys Pvt. Ltd. since January 2019 - August 2021.
 - Worked as a Data Scientist and Engineer (Part-time) at Eucaps Ltd. since June 2021 - August 2021.
 - Worked as a Data Engineer(Remote and Part-time) at Mumsy AB under Transdev since Januray 2021 - May 2021.
-### Education 
 
+### Education 
 - BSc. in Computer Science and Engineering from North South University, Dhaka, Bangladesh.
 - Major: Artificial Intelligence and Machine Learning.
 - Institutional Trail Name: Artificial Intelligence.
