@@ -1,6 +1,6 @@
 # Welcome to the world of Md. Mahmudul Haque a.k.a alcatraz47
 
-**Who am I?: I am a Data Science practitioner and have been researching in this domain for about 4 and half years. I have a little contribution to this field. I am mostly interested in Natural Language Processing though my first job as well as my capstone is on Computer Vision. I have publication on textual NLP and reasearch experience on voice based NLP.**
+**Who am I?: I am a Data Science practitioner and have been researching in this domain for about 5 and half years. I have a little contribution to this field. I am mostly interested in Natural Language Processing though my first job as well as my capstone is on Computer Vision. I have publication on textual NLP and reasearch experience on voice based NLP.**
 
 ### Hobby
 
