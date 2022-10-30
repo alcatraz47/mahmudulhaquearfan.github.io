@@ -4,7 +4,7 @@
 
 ### Hobby
 
-Travelling, Listening songs, Reading fiction books, watching motor sports specially Formula 1
+Travelling, Listening songs, Reading fiction books, and Watching motor sports specially Formula 1
 
 ### Job Experience
 **Current**:
