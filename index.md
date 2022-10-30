@@ -8,9 +8,10 @@ Travelling, Listening songs, Reading fiction books, watching motor sports specia
 
 ### Job Experience
 **Current**:
-- Working as a Data Scientist and Engineer (Full-time) at Eucaps Ltd. since September 2021 - Present.
+- Currently, I am studying full-time at TU Dortmund MSc in Data Science programme.
 
 **Past**:
+- Worked as a Data Scientist and Engineer (Full-time) at Eucaps Ltd. since September 2021 - April 2022.
 - Worked as a Machine Learning Engineer (Part-time) at NybSys Pvt. Ltd. since September 2021 - 31st October 2021.
 - Worked as a Machine Learning Engineer (Full-time) at NybSys Pvt. Ltd. since January 2019 - August 2021.
 - Worked as a Data Scientist and Engineer (Part-time) at Eucaps Ltd. since June 2021 - August 2021.
