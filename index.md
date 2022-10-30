@@ -110,7 +110,11 @@ Here, I used one picture of mine and my friend to compress. At first, I lowered 
 - Mathematics for Machine Learning: Linear Algebra Via Coursera Online MOOC from Imperial College London: [verification-link](https://www.coursera.org/account/accomplishments/certificate/DUTH4LKFWV87)
 
 ### Reference
-DR. MOHAMMAD RASHEDUR RAHMAN
+1. Md. Rakib Saleh
+CEO, Unatitech
+Email: rakib@unatitech.se
+
+2. DR. MOHAMMAD RASHEDUR RAHMAN
 Professor & Graduate Coordinator
 PhD in Computer Science, University of Calgary, Canada
 MS in Computer Science, University of Manitoba, Canada
