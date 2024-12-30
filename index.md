@@ -8,14 +8,13 @@ Travelling, Listening songs, Reading fiction books, and Watching motor sports sp
 
 ### Job Experience
 **Current**:
-- Currently, I am studying full-time at TU Dortmund MSc in Data Science programme.
+- Data Science Working Student / Intern at Henkel AG & Co. KGaA, Düsseldorf, Germany. 
+- And, I am studying at TU Dortmund MSc in Data Science programme.
 
 **Past**:
-- Worked as a Data Scientist and Engineer (Full-time) at Eucaps Ltd. since September 2021 - April 2022.
-- Worked as a Machine Learning Engineer (Part-time) at NybSys Pvt. Ltd. since September 2021 - 31st October 2021.
-- Worked as a Machine Learning Engineer (Full-time) at NybSys Pvt. Ltd. since January 2019 - August 2021.
-- Worked as a Data Scientist and Engineer (Part-time) at Eucaps Ltd. since June 2021 - August 2021.
-- Worked as a Data Engineer(Remote and Part-time) at Mumsy AB under Transdev since Januray 2021 - May 2021.
+- Software Engineer at Proxify AB (Part-time) since January 2023 to March 2024
+- Data Scientist and Engineer at Eucaps Ltd. since June 2021 to September 2022
+- Machine Learnign Engineer at NybSys Pvt. Ltd. since January 2019 to October 2021
 
 ### Education 
 - MSc. in Data Science from Technical University Dortmund (Technische Universität Dortmund), Dortmund, Germany: April 2021 - present
